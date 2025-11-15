@@ -10,7 +10,7 @@ schema_view = get_schema_view(
    openapi.Info(
       title="MaxWay",
       default_version='v1',
-      description="Bu Loyhada asosan ikkta odam qatnashgan Qudratbek va Mirabbosbek",
+      description="Anons",
       terms_of_service="https://www.google.com/policies/terms/",
       contact=openapi.Contact(email="anonshack48@gmail.com"),
       license=openapi.License(name="Anons team"),
